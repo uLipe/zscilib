@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['zephyr_20scientific_20library_20documentation_240',['Zephyr Scientific Library Documentation',['../md_doc__r_e_a_d_m_e.html',1,'']]],
   ['z_241',['z',['../structzsl__euler.html#a23fcd1fb84e7ea7a467ef29a4d1b582c',1,'zsl_euler::z()'],['../structzsl__quat.html#a5bc3edee976c490c5762b01770465a8c',1,'zsl_quat::z()']]],
   ['z_5finvalid_242',['z_invalid',['../structzsl__clr__xyz.html#a50df5640355d6669b6306353108c6a8b',1,'zsl_clr_xyz']]],
   ['zsl_2ec_243',['zsl.c',['../zsl_8c.html',1,'']]],
